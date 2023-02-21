@@ -1,10 +1,9 @@
 #include <stdio.h>
 
 /**
- * a program that computes and prints the sum of all the multiples of 3 or 5 below 1024 (excluded), followed by a new line.
- *
- * Return: void
-*/
+ * Calculates the sum of all natural numbers below 1024 that are multiples of 3 or 5.
+ * Returns the sum.
+ */
 
 int main(void)
 {
