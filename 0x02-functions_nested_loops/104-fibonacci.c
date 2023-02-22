@@ -16,7 +16,7 @@ int main(void)
 	while (count < 98)
 	{
 		c = a + b;
-		iprintf("%d", c);
+		printf("%d", c);
 		if (count != 97)
 		{
 			printf(", ");
