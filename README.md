@@ -1,1 +1,0 @@
-learrning C pointers
