@@ -1,1 +1,1 @@
-learning c programming
+learrning C pointers
