@@ -4,14 +4,13 @@
 #include <ctype.h>
 #include <string.h>
 
-
 /**
- * _isupper - print uppercase characters
+ * _putchar - print character
  * @c: the character to be checked
  *
- * Return: uppercase character
+ * Return: the character
  */
-int _isupper(int c)
+int _putchar(char c)
 {
-	return (c >= 'A' && c <= 'Z');
+	return (putchar(c));
 }
